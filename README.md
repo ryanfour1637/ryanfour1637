@@ -40,23 +40,19 @@
 
 <br />
 <br />
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats:
 
-  <img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanfour1637&show_icons=true&hide_border=true" />
+<img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanfour1637&show_icons=true&hide_border=true" />
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<br><br/>
+### Most Used Languages:
 
 <img align="left" alt="Ryan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfour1637" />
 
-</details>
 
-[portfolio]: https://ryan-fournier.com/
+### Portfolio website: https://ryan-fournier.com/
 [linkedin]: https://www.linkedin.com/in/ryan-fournier-software-engineer/
 
 
