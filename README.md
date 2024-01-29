@@ -12,6 +12,8 @@
 - 💬 Ask me about anything!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have Boston Bruins season tickets.
+- 🏠 Boston, MA
+- ✉️ Ryanfour1637@gmail.com
 
 ### Looking to connect?
 <a href='https://www.linkedin.com/in/ryan-fournier-software-engineer/' target='_blank'><img align="left" alt="Ryan Fournier | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
