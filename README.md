@@ -38,6 +38,26 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanfour1637&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Ryan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfour1637" />
+
+</details>
+
+[portfolio]: https://ryan-fournier.com/
+[linkedin]: https://www.linkedin.com/in/ryan-fournier-software-engineer/
 
 
 
