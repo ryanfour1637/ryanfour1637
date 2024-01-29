@@ -13,7 +13,7 @@
 - ⚡ Fun fact: We have Boston Bruins season tickets.
 
 ### Looking to connect?
-[<img align="left" alt="Ryan Fournier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<a href='https://www.linkedin.com/in/ryan-fournier-software-engineer/' target='_blank'><img align="left" alt="Ryan Fournier | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
