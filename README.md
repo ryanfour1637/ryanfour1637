@@ -5,7 +5,8 @@
 -->
 ## Husband, Father, Software Engineer and Avid Sports Fan!
 
-- 🔭 I’m currently working on on fine-tuning, BitBabble (my slack clone), and beginning work on The Big Show (my application for our 20-year running fantasy football league).
+- 🔭 I’m currently working on on fine-tuning, [BitBabble] (my slack clone), and beginning work on The Big Show (my application for our 20-year running fantasy football league).
+- ✍ You can find my projects [here].
 - 🌱 I’m currently learning TypeScript and Data Structures & Algorithms.
 - 👯 I’m looking to collaborate with colleagues in an exciting work environment. 
 - 💬 Ask me about anything!
@@ -51,3 +52,10 @@
 <br />
 <br />
 
+
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
+[here]: https://ryan-fournier.com/
+[BitBabble]: https://bitbabble.onrender.com/
