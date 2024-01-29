@@ -5,12 +5,12 @@
 -->
 ## Husband, Father, Software Engineer and Avid Sports Fan!
 
-- 🔭 I’m currently working on on fine-tuning BitBabble (my slack clone) and beginning work on The Big Show (my application for our 20-year running fantasy football league). 
+- 🔭 I’m currently working on on fine-tuning, BitBabble (my slack clone), and beginning work on The Big Show (my application for our 20-year running fantasy football league).
 - 🌱 I’m currently learning TypeScript and Data Structures & Algorithms.
 - 👯 I’m looking to collaborate with colleagues in an exciting work environment. 
 - 💬 Ask me about anything!
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: We have Boston Bruins season tickets.
+- ⚡ Fun fact: I have Boston Bruins season tickets.
 
 ### Looking to connect?
 <a href='https://www.linkedin.com/in/ryan-fournier-software-engineer/' target='_blank'><img align="left" alt="Ryan Fournier | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -41,19 +41,13 @@
 <br />
 <br />
 
-### GitHub Stats:
-
+<br>
+<br>
+<div>
 <img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryanfour1637&show_icons=true&hide_border=true" />
-
-
-<br><br/>
-### Most Used Languages:
-
 <img align="left" alt="Ryan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanfour1637" />
+</div>
 
-
-### Portfolio website: https://ryan-fournier.com/
-[linkedin]: https://www.linkedin.com/in/ryan-fournier-software-engineer/
-
-
+<br />
+<br />
 
