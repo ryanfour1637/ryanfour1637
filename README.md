@@ -9,7 +9,7 @@
 - ✍ You can find my projects [here].
 - 🌱 I’m currently learning TypeScript and Data Structures & Algorithms.
 - 👯 I’m looking to collaborate with colleagues in an exciting work environment. 
-- 💬 Ask me about anything!
+- 💬 Ask me about anything, I am an open book!
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have Boston Bruins season tickets.
 - 🏠 Boston, MA
