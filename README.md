@@ -3,7 +3,7 @@
 <!--
 **ryanfour1637/ryanfour1637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Husband, Father, Software Engineer and Avid Sports Fan!
+## Software Engineer and Avid Sports Fan!
 
 - 🔭 I’m currently working on TheBigShowFF, a fantasy football content website with detailed histories and weekly/season long content. 
 - ✍ You can find my projects [here].
