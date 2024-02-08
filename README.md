@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on TheBigShowFF, a fantasy football content website with detailed histories and weekly/season long content. 
 - ✍ You can find my projects [here].
-- 🌱 I’m currently learning TypeScript and Data Structures & Algorithms.
+- 🌱 I’m currently learning Django, TypeScript and Data Structures & Algorithms.
 - 👯 I’m looking to collaborate with colleagues in an exciting work environment. 
 - 💬 Ask me about anything, I am an open book!
 - 😄 Pronouns: He / Him
